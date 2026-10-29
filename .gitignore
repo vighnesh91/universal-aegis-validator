@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Universal AegisValidator Report Outputs
+aegis_reports/
+*.pdf
+*.json
+*.tmp
+*.log
+
+# Editor/OS specific
+.豎tore
+.idea/
+.vscode/
+*.suo
+*.ntvs*
